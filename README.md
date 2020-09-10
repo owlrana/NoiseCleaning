@@ -37,3 +37,9 @@ ____________________________
 (3) J. Nuzman, Audio Restoration: An Investigation of Digital Methods for Click Removal and Hiss Reduction, Jan, 2004.
     Google Scholar
     https://pdfs.semanticscholar.org/eccb/50f9a37b1bf77afd1e5457ac276cdb1a5c09.pdf
+    
+____________________________
+
+**More Support:**
+
+_Adding more functionality in future. Created this to save my time everyday (full process takes usually 1 hour, this script takes 1 minute). Currently support Windows 8.1 or Windows 10 ONLY. Standard packages need to be installed, will write a script to check and automatically install packages required in near future._
